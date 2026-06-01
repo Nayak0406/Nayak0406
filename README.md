@@ -204,7 +204,7 @@ Talent Acquisition Specialist | US IT Recruiter | Tech Talent Connector
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nayak-nayak-33a6a524b">
+<a href="https://www.linkedin.com/in/nayak-nayak-463608369">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 

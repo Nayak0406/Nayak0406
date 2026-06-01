@@ -35,14 +35,6 @@ Talent Acquisition Specialist | US IT Recruiter | Tech Talent Connector
 
 🔹 Committed to building long-term professional relationships
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
-
-</td>
-
 </tr>
 </table>
 
@@ -211,16 +203,6 @@ Talent Acquisition Specialist | US IT Recruiter | Tech Talent Connector
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayak0406&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Nayak0406/Nayak0406/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </p>
 

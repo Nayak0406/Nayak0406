@@ -184,14 +184,6 @@ Talent Acquisition Specialist | US IT Recruiter | Tech Talent Connector
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nayak0406&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayak0406&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayak0406&theme=tokyonight"/>
 
 </p>
